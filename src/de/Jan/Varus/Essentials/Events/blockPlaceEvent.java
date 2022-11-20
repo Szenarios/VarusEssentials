@@ -3,7 +3,7 @@ package de.Jan.Varus.Essentials.Events;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.block.CreatureSpawner;
-import org.bukkit.craftbukkit.v1_15_R1.block.CraftCreatureSpawner;
+import org.bukkit.craftbukkit.v1_17_R1.block.CraftCreatureSpawner;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockPlaceEvent;

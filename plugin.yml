@@ -1,14 +1,12 @@
-name: varusessentials
+name: varusEssentials
 version: 1
-api-version: 1.15 
+api-version: 1.16
 author: Jan
 main: de.Jan.Varus.Essentials.Main
 commands: 
    fly: 
    invsee: 
    endersee: 
-   tpa: 
-   tpdeny: 
-   tpaccept: 
    gm:
    msg:
+   v:
